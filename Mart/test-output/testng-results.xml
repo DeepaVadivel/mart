@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2018-12-20T06:13:23Z" name="Suite" finished-at="2018-12-20T06:13:58Z" duration-ms="34981">
+    <groups>
+    </groups>
+    <test started-at="2018-12-20T06:13:23Z" name="Test" finished-at="2018-12-20T06:13:58Z" duration-ms="34981">
+      <class name="startreport.Thirdparty">
+        <test-method signature="testing()[pri:0, instance:startreport.Thirdparty@209da20d]" started-at="2018-12-20T06:13:23Z" name="testing" finished-at="2018-12-20T06:13:58Z" duration-ms="34930" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testing -->
+      </class> <!-- startreport.Thirdparty -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
